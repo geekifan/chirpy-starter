@@ -30,6 +30,9 @@ jobs:
         with:
           path: resources
           key: ${{ env.cache-name }}
+      
+      - name: Setup Dart Sass
+        run: sudo snap install dart-sass
 
       - name: Setup Go
         uses: actions/setup-go@v5
