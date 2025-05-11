@@ -1,4 +1,5 @@
 ---
+title: "Categories"
 menu:
   main:
     name: Categories

@@ -1,4 +1,5 @@
 ---
+title: "标签"
 menu:
   main:
     name: 标签
