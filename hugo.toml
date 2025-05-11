@@ -1,8 +1,10 @@
+baseURL = 'https://geekifan.github.io/chirpy-starter/'
 title = 'Chirpy'
 enableGitInfo = false
 
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
+hasCJKLanguage = true
 
 [pagination]
   pagerSize = 5
