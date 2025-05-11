@@ -1,0 +1,30 @@
+toc = true
+avatar = "img/commons/avatar.jpg"
+author = "yifan"
+
+[assets]
+  self_host = false
+
+[social]
+  name = "Yifan"
+  url = "https://github.com/geekifan"
+
+[[social.links]]
+  type = "github"
+  id = "yourusername"
+  icon = "fab fa-github"
+
+[[social.links]]
+  type = "twitter"
+  id = "yourhandle"
+  icon = "fab fa-twitter"
+
+[[social.links]]
+  type = "email"
+  id = "your.email@example.com"
+  icon = "fas fa-envelope"
+
+[[social.links]]
+  type = "rss"
+  icon = "fas fa-rss"
+  noblank = true  # will not open in new window

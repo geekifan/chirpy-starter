@@ -1,0 +1,15 @@
+title = 'Chirpy'
+enableGitInfo = false
+
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
+
+[pagination]
+  pagerSize = 5
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[module]
+  [[module.imports]]
+    path = "github.com/geekifan/hugo-theme-chirpy"
