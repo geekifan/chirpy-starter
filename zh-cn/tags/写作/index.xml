@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>写作 on Chirpy</title><link>https://geekifan.github.io/chirpy-starter/zh-cn/tags/%E5%86%99%E4%BD%9C/</link><description>Recent content in 写作 on Chirpy</description><generator>Hugo</generator><language>zh-CN</language><lastBuildDate>Thu, 08 Aug 2019 14:10:00 +0800</lastBuildDate><atom:link href="https://geekifan.github.io/chirpy-starter/zh-cn/tags/%E5%86%99%E4%BD%9C/index.xml" rel="self" type="application/rss+xml"/><item><title>撰写新文章</title><link>https://geekifan.github.io/chirpy-starter/zh-cn/post/2019-08-08-write-a-new-post/</link><pubDate>Thu, 08 Aug 2019 14:10:00 +0800</pubDate><guid>https://geekifan.github.io/chirpy-starter/zh-cn/post/2019-08-08-write-a-new-post/</guid><description>&lt;p>本教程将指导您如何在 &lt;em>Chirpy&lt;/em> 模板中撰写文章，即使您以前使用过 Hugo，也值得阅读，因为许多功能需要设置特定变量。&lt;/p>
+&lt;h2 id="命名和路径" id=命名和路径>
+ 
+ &lt;span class="me-2">命名和路径&lt;/span>
+ &lt;a href="#%e5%91%bd%e5%90%8d%e5%92%8c%e8%b7%af%e5%be%84" class="anchor text-muted">&lt;i class="fas fa-hashtag">&lt;/i>&lt;/a>
+ 
+&lt;/h2>&lt;p>创建一个新文件，使用 &lt;code>hugo new content/post/YYYY-MM-DD-TITLE.md&lt;/code>。您可以根据自己的喜好更改路径，但请注意，所有文章都应该放在根目录的 &lt;code class="filepath">content/post&lt;/code> 中。&lt;/p></description></item></channel></rss>
