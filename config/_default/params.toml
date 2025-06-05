@@ -1,8 +1,11 @@
+# boolean type, the global switch for TOC in posts.
 toc = true
+# the avatar on sidebar, should be a relative path to /assets.
 avatar = "img/commons/avatar.jpg"
 author = "yifan"
 
 [assets]
+  # Self-hosted static assets, default to false. If true, the assets will be hosted on your own server.
   self_host = false
 
 [social]
@@ -28,3 +31,39 @@ author = "yifan"
   type = "rss"
   icon = "fas fa-rss"
   noblank = true  # will not open in new window
+
+[comments]
+# Global switch for the post-comment system. [true | false]
+enable = false
+# The provider options are as follows: [disqus | utterances | giscus]
+provider = ""
+
+# Disqus options
+[comments.disqus]
+# fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
+shortname = ""
+
+# utterances settings › https://utteranc.es/
+[comments.utterances]
+# <gh-username>/<repo>
+repo = ""
+# < url | pathname | title | ...>
+issue_term = ""
+
+# Giscus options › https://giscus.app
+[comments.giscus]
+# <gh-username>/<repo>
+repo = ""
+repo_id = ""
+category = ""
+category_id = ""
+# optional, default to 'pathname'
+mapping = ""
+# optional, default to '0'
+strict = ""
+# optional, default to 'bottom'
+input_position = ""
+# optional, default to site language
+lang = ""
+# optional, default to the value of `1`
+reactions_enabled = ""

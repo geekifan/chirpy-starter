@@ -1,0 +1,25 @@
+# The base URL for the site.
+baseURL = 'https://geekifan.github.io/chirpy-starter/'
+# The title of the site.
+title = 'Chirpy'
+# Enable Git info › https://gohugo.io/methods/page/gitinfo/
+enableGitInfo = false
+# The default content language.
+defaultContentLanguage = "en"
+# Whether the default content language is in a subdirectory.
+defaultContentLanguageInSubdir = false
+# Whether the site has CJK language (Chinese, Japanese, Korean).
+hasCJKLanguage = true
+
+# Pagination settings.
+[pagination]
+  pagerSize = 5
+
+# Make sure to include JSON output to support the search functionality.
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+# Import the theme.
+[module]
+  [[module.imports]]
+    path = "github.com/geekifan/hugo-theme-chirpy"

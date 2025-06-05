@@ -1,3 +1,4 @@
+# Code highlighting settings.
 [highlight]
   anchorLineNos = false
   codeFences = true
