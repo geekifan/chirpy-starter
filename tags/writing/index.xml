@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Writing on Chirpy</title><link>https://geekifan.github.io/chirpy-starter/tags/writing/</link><description>Recent content in Writing on Chirpy</description><generator>Hugo</generator><language>en</language><lastBuildDate>Thu, 08 Aug 2019 14:10:00 +0800</lastBuildDate><atom:link href="https://geekifan.github.io/chirpy-starter/tags/writing/index.xml" rel="self" type="application/rss+xml"/><item><title>Writing a New Post</title><link>https://geekifan.github.io/chirpy-starter/post/2019-08-08-write-a-new-post/</link><pubDate>Thu, 08 Aug 2019 14:10:00 +0800</pubDate><guid>https://geekifan.github.io/chirpy-starter/post/2019-08-08-write-a-new-post/</guid><description>&lt;p>This tutorial will guide you how to write a post in the &lt;em>Chirpy&lt;/em> template, and it&amp;rsquo;s worth reading even if you&amp;rsquo;ve used Hugo before, as many features require specific variables to be set.&lt;/p>
+&lt;h2 id="naming-and-path" id=naming-and-path>
+ 
+ &lt;span class="me-2">Naming and Path&lt;/span>
+ &lt;a href="#naming-and-path" class="anchor text-muted">&lt;i class="fas fa-hashtag">&lt;/i>&lt;/a>
+ 
+&lt;/h2>&lt;p>Create a new file using &lt;code>hugo new content/post/YYYY-MM-DD-TITLE.md&lt;/code>. You can change the path as you like, but note that all the posts should be placed in &lt;code class="filepath">content/post&lt;/code> of the root directory.&lt;/p>
+&lt;h2 id="front-matter" id=front-matter>
+ 
+ &lt;span class="me-2">Front Matter&lt;/span>
+ &lt;a href="#front-matter" class="anchor text-muted">&lt;i class="fas fa-hashtag">&lt;/i>&lt;/a>
+ 
+&lt;/h2>&lt;p>Basically, you need to fill the &lt;a href="https://gohugo.io/content-management/front-matter/">Front Matter&lt;/a> as below at the top of the post:&lt;/p></description></item></channel></rss>

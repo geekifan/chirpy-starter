@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Demo on Chirpy</title><link>https://geekifan.github.io/chirpy-starter/categories/demo/</link><description>Recent content in Demo on Chirpy</description><generator>Hugo</generator><language>en</language><lastBuildDate>Thu, 08 Aug 2019 11:33:00 +0800</lastBuildDate><atom:link href="https://geekifan.github.io/chirpy-starter/categories/demo/index.xml" rel="self" type="application/rss+xml"/><item><title>Text and Typography</title><link>https://geekifan.github.io/chirpy-starter/post/2019-08-08-text-and-typography/</link><pubDate>Thu, 08 Aug 2019 11:33:00 +0800</pubDate><guid>https://geekifan.github.io/chirpy-starter/post/2019-08-08-text-and-typography/</guid><description>&lt;h2 id="headings" id=headings>
+ 
+ &lt;span class="me-2">Headings&lt;/span>
+ &lt;a href="#headings" class="anchor text-muted">&lt;i class="fas fa-hashtag">&lt;/i>&lt;/a>
+ 
+&lt;/h2>&lt;!-- markdownlint-capture -->
+&lt;!-- markdownlint-disable -->
+&lt;h1 id="h1--heading" class=mt-4 mb-0 data-toc-skip=true id=h1--heading>
+ H1 — heading
+&lt;/h1>&lt;h2 id="h2--heading" class=mt-4 mb-0 data-toc-skip=true id=h2--heading>
+ H2 — heading
+&lt;/h2>&lt;h3 id="h3--heading" class=mt-4 mb-0 data-toc-skip=true id=h3--heading>
+ H3 — heading
+&lt;/h3>&lt;h4 id="h4--heading" class=mt-4 data-toc-skip=true id=h4--heading>
+ H4 — heading
+&lt;/h4>&lt;!-- markdownlint-restore -->
+&lt;h2 id="paragraph" id=paragraph>
+ 
+ &lt;span class="me-2">Paragraph&lt;/span>
+ &lt;a href="#paragraph" class="anchor text-muted">&lt;i class="fas fa-hashtag">&lt;/i>&lt;/a>
+ 
+&lt;/h2>&lt;p>Quisque egestas convallis ipsum, ut sollicitudin risus tincidunt a. Maecenas interdum malesuada egestas. Duis consectetur porta risus, sit amet vulputate urna facilisis ac. Phasellus semper dui non purus ultrices sodales. Aliquam ante lorem, ornare a feugiat ac, finibus nec mauris. Vivamus ut tristique nisi. Sed vel leo vulputate, efficitur risus non, posuere mi. Nullam tincidunt bibendum rutrum. Proin commodo ornare sapien. Vivamus interdum diam sed sapien blandit, sit amet aliquam risus mattis. Nullam arcu turpis, mollis quis laoreet at, placerat id nibh. Suspendisse venenatis eros eros.&lt;/p></description></item></channel></rss>

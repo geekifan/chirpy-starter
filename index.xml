@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Chirpy</title><link>https://geekifan.github.io/chirpy-starter/</link><description>Recent content on Chirpy</description><generator>Hugo</generator><language>en</language><lastBuildDate>Thu, 20 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://geekifan.github.io/chirpy-starter/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>https://geekifan.github.io/chirpy-starter/about/</link><pubDate>Thu, 20 Apr 2023 00:00:00 +0000</pubDate><guid>https://geekifan.github.io/chirpy-starter/about/</guid><description>&lt;p>&lt;a href="https://github.com/cotes2020/jekyll-theme-chirpy">Chirpy&lt;/a> is a blog theme originally based on &lt;a href="https://jekyllrb.com/">Jekyll&lt;/a>. Due to Jekyll&amp;rsquo;s design limitations, it does not natively support internationalization (i18n) and requires third-party plugins for i18n functionality. To enable i18n support for Chirpy without the hassle of relying on third-party plugins, the &lt;a href="https://github.com/geekifan/hugo-theme-chirpy">hugo-theme-chirpy&lt;/a> project migrated the Chirpy theme to &lt;a href="https://gohugo.io/">Hugo&lt;/a> with minimal adaptations. All features of Chirpy are available in hugo-theme-chirpy (though some functionalities may operate differently within the Hugo framework).&lt;/p>
+&lt;p>Follow the posts in the demo site to quickly set up a free personal blog!&lt;/p></description></item><item><title>Customize the Favicon</title><link>https://geekifan.github.io/chirpy-starter/post/2019-08-11-customize-the-favicon/</link><pubDate>Sun, 11 Aug 2019 00:34:00 +0800</pubDate><guid>https://geekifan.github.io/chirpy-starter/post/2019-08-11-customize-the-favicon/</guid><description>&lt;p>The &lt;a href="https://www.favicon-generator.org/about/">favicons&lt;/a> of &lt;a href="https://github.com/cotes2020/jekyll-theme-chirpy/">&lt;strong>Chirpy&lt;/strong>&lt;/a> are placed in the directory &lt;code class="filepath">assets/img/favicons/&lt;/code>. You may want to replace them with your own. The following sections will guide you to create and replace the default favicons.&lt;/p>
+&lt;h2 id="generate-the-favicon" id=generate-the-favicon>
+ 
+ &lt;span class="me-2">Generate the favicon&lt;/span>
+ &lt;a href="#generate-the-favicon" class="anchor text-muted">&lt;i class="fas fa-hashtag">&lt;/i>&lt;/a>
+ 
+&lt;/h2>&lt;p>Prepare a square image (PNG, JPG, or SVG) with a size of 512x512 or more, and then go to the online tool &lt;a href="https://realfavicongenerator.net/">&lt;strong>Real Favicon Generator&lt;/strong>&lt;/a> and click the button &lt;kbd>Select your Favicon image&lt;/kbd> to upload your image file.&lt;/p></description></item><item><title>Getting Started</title><link>https://geekifan.github.io/chirpy-starter/post/2019-08-09-getting-started/</link><pubDate>Fri, 09 Aug 2019 20:55:00 +0800</pubDate><guid>https://geekifan.github.io/chirpy-starter/post/2019-08-09-getting-started/</guid><description>&lt;blockquote class="prompt-warning">&lt;p>&lt;strong>NOTE:&lt;/strong> This tutorial is not fully migrated from the Jekyll version &amp;ndash; please reference with caution.&lt;/p>&lt;/blockquote>
+&lt;h2 id="creating-a-site-repository" id=creating-a-site-repository>
+ 
+ &lt;span class="me-2">Creating a Site Repository&lt;/span>
+ &lt;a href="#creating-a-site-repository" class="anchor text-muted">&lt;i class="fas fa-hashtag">&lt;/i>&lt;/a>
+ 
+&lt;/h2>&lt;p>When creating your site repository, you have two options depending on your needs:&lt;/p>
+&lt;h3 id="option-1-using-the-starter-recommended" id=option-1-using-the-starter-recommended>
+ 
+ &lt;span class="me-2">Option 1. Using the Starter (Recommended)&lt;/span>
+ &lt;a href="#option-1-using-the-starter-recommended" class="anchor text-muted">&lt;i class="fas fa-hashtag">&lt;/i>&lt;/a>
+ 
+&lt;/h3>&lt;p>This approach simplifies upgrades, isolates unnecessary files, and is perfect for users who want to focus on writing with minimal configuration.&lt;/p>
+&lt;ol>
+&lt;li>Sign in to GitHub and navigate to the &lt;a href="https://github.com/geekifan/chirpy-starter">&lt;strong>starter&lt;/strong>&lt;/a>.&lt;/li>
+&lt;li>Click the &lt;kbd>Use this template&lt;/kbd> button and then select &lt;kbd>Create a new repository&lt;/kbd>.&lt;/li>
+&lt;li>Name the new repository &lt;code>&amp;lt;username&amp;gt;.github.io&lt;/code>, replacing &lt;code>username&lt;/code> with your lowercase GitHub username.&lt;/li>
+&lt;/ol>
+&lt;h3 id="option-2-forking-the-theme" id=option-2-forking-the-theme>
+ 
+ &lt;span class="me-2">Option 2. Forking the Theme&lt;/span>
+ &lt;a href="#option-2-forking-the-theme" class="anchor text-muted">&lt;i class="fas fa-hashtag">&lt;/i>&lt;/a>
+ 
+&lt;/h3>&lt;p>This approach is convenient for modifying features or UI design, but presents challenges during upgrades. So don&amp;rsquo;t try this unless you are familiar with Jekyll and plan to heavily modify this theme.&lt;/p></description></item><item><title>Writing a New Post</title><link>https://geekifan.github.io/chirpy-starter/post/2019-08-08-write-a-new-post/</link><pubDate>Thu, 08 Aug 2019 14:10:00 +0800</pubDate><guid>https://geekifan.github.io/chirpy-starter/post/2019-08-08-write-a-new-post/</guid><description>&lt;p>This tutorial will guide you how to write a post in the &lt;em>Chirpy&lt;/em> template, and it&amp;rsquo;s worth reading even if you&amp;rsquo;ve used Hugo before, as many features require specific variables to be set.&lt;/p>
+&lt;h2 id="naming-and-path" id=naming-and-path>
+ 
+ &lt;span class="me-2">Naming and Path&lt;/span>
+ &lt;a href="#naming-and-path" class="anchor text-muted">&lt;i class="fas fa-hashtag">&lt;/i>&lt;/a>
+ 
+&lt;/h2>&lt;p>Create a new file using &lt;code>hugo new content/post/YYYY-MM-DD-TITLE.md&lt;/code>. You can change the path as you like, but note that all the posts should be placed in &lt;code class="filepath">content/post&lt;/code> of the root directory.&lt;/p>
+&lt;h2 id="front-matter" id=front-matter>
+ 
+ &lt;span class="me-2">Front Matter&lt;/span>
+ &lt;a href="#front-matter" class="anchor text-muted">&lt;i class="fas fa-hashtag">&lt;/i>&lt;/a>
+ 
+&lt;/h2>&lt;p>Basically, you need to fill the &lt;a href="https://gohugo.io/content-management/front-matter/">Front Matter&lt;/a> as below at the top of the post:&lt;/p></description></item><item><title>Text and Typography</title><link>https://geekifan.github.io/chirpy-starter/post/2019-08-08-text-and-typography/</link><pubDate>Thu, 08 Aug 2019 11:33:00 +0800</pubDate><guid>https://geekifan.github.io/chirpy-starter/post/2019-08-08-text-and-typography/</guid><description>&lt;h2 id="headings" id=headings>
+ 
+ &lt;span class="me-2">Headings&lt;/span>
+ &lt;a href="#headings" class="anchor text-muted">&lt;i class="fas fa-hashtag">&lt;/i>&lt;/a>
+ 
+&lt;/h2>&lt;!-- markdownlint-capture -->
+&lt;!-- markdownlint-disable -->
+&lt;h1 id="h1--heading" class=mt-4 mb-0 data-toc-skip=true id=h1--heading>
+ H1 — heading
+&lt;/h1>&lt;h2 id="h2--heading" class=mt-4 mb-0 data-toc-skip=true id=h2--heading>
+ H2 — heading
+&lt;/h2>&lt;h3 id="h3--heading" class=mt-4 mb-0 data-toc-skip=true id=h3--heading>
+ H3 — heading
+&lt;/h3>&lt;h4 id="h4--heading" class=mt-4 data-toc-skip=true id=h4--heading>
+ H4 — heading
+&lt;/h4>&lt;!-- markdownlint-restore -->
+&lt;h2 id="paragraph" id=paragraph>
+ 
+ &lt;span class="me-2">Paragraph&lt;/span>
+ &lt;a href="#paragraph" class="anchor text-muted">&lt;i class="fas fa-hashtag">&lt;/i>&lt;/a>
+ 
+&lt;/h2>&lt;p>Quisque egestas convallis ipsum, ut sollicitudin risus tincidunt a. Maecenas interdum malesuada egestas. Duis consectetur porta risus, sit amet vulputate urna facilisis ac. Phasellus semper dui non purus ultrices sodales. Aliquam ante lorem, ornare a feugiat ac, finibus nec mauris. Vivamus ut tristique nisi. Sed vel leo vulputate, efficitur risus non, posuere mi. Nullam tincidunt bibendum rutrum. Proin commodo ornare sapien. Vivamus interdum diam sed sapien blandit, sit amet aliquam risus mattis. Nullam arcu turpis, mollis quis laoreet at, placerat id nibh. Suspendisse venenatis eros eros.&lt;/p></description></item><item><title>Archives</title><link>https://geekifan.github.io/chirpy-starter/archives/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://geekifan.github.io/chirpy-starter/archives/</guid><description/></item></channel></rss>
