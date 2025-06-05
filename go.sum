@@ -1,7 +1,7 @@
 github.com/geekifan/chirpy-static-assets v0.0.0-20250507021825-887e490b15f2 h1:r/j8ns7StZlMJeDd5mRPZ5RgogdsegvrVHPr2y955/U=
 github.com/geekifan/chirpy-static-assets v0.0.0-20250507021825-887e490b15f2/go.mod h1:F58Ey9QK/tEgIxwcQSqAgV4ZA24mCb714B58D4Syv/0=
-github.com/geekifan/hugo-theme-chirpy v1.0.1 h1:2L/bPe0v34tmyB/ueZlkgqi9Ff44fVkkMqE2SbczNu4=
-github.com/geekifan/hugo-theme-chirpy v1.0.1/go.mod h1:5MymPX4BS13v2WUQ71cN1/TJicU7hudpj4dZJHu1kLc=
+github.com/geekifan/hugo-theme-chirpy v1.0.2 h1:0BacgUzQPmCqld7/fum13+5ehZuh13sDFMXN93oTAG8=
+github.com/geekifan/hugo-theme-chirpy v1.0.2/go.mod h1:Od/wsK887bOTxLOx0uLMMbA/84V/JIbgE96/MQjFxd4=
 github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20300.20400 h1:L6+F22i76xmeWWwrtijAhUbf3BiRLmpO5j34bgl1ggU=
 github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20300.20400/go.mod h1:uekq1D4ebeXgduLj8VIZy8TgfTjrLdSl6nPtVczso78=
 github.com/gohugoio/hugo-mod-jslibs-dist/popperjs/v2 v2.21100.20000 h1:GZxx4Hc+yb0/t3/rau1j8XlAxLE4CyXns2fqQbyqWfs=
